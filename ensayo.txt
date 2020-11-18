@@ -1,1 +1,3 @@
 hola esta es la capacitación de git
+
+Linea 2
